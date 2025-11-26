@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dumper-safety-system/static/css/main.7f1877e2.css",
+    "main.js": "/dumper-safety-system/static/js/main.d1b1d8a0.js",
+    "index.html": "/dumper-safety-system/index.html",
+    "main.7f1877e2.css.map": "/dumper-safety-system/static/css/main.7f1877e2.css.map",
+    "main.d1b1d8a0.js.map": "/dumper-safety-system/static/js/main.d1b1d8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1877e2.css",
+    "static/js/main.d1b1d8a0.js"
+  ]
+}
